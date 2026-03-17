@@ -2,7 +2,7 @@
 A simon says type of color memory game - Players click the red button 3 times to turn the game on, the box will present 1 new color for you to remember with each level you surpass.
 # Media
 Demo Video: https://youtu.be/B2t3wFgcX6I 
-# Built with
+# Built with:
 - Arduino Uno + Full sized breadboard circuit
 - 4 LED's (Red, Green< blue and yellow)
 - 4 tactile quad-pin buttons
