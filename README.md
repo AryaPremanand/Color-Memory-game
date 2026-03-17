@@ -17,6 +17,6 @@ Demo Video: https://youtu.be/B2t3wFgcX6I
 4. When you make a mistake and lose the game, all the lights will flash and proceed to turn off completely
 5. Triple click the red button to keep playing!
 # Setup
-The game is battery operated since the code is already loaded onto the arduino already. (No Computer needed to play)
+The game is battery operated since the code is already loaded onto the arduino. (No Computer needed to play)
 # Purpose
 This Project was apart of my application to be a Highschool Leader for the University of Waterloo Engineering Science Quest program, hopefully having the oppurtunity to help kids gain hands-on STEM experience within my region.
