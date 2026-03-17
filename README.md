@@ -1,5 +1,7 @@
 # Color-Memory-game
 A simon says type of color memory game - Players click the red button 3 times to turn the game on, the box will present 1 new color for you to remember with each level you surpass.
+# Media
+
 # Built with
 - Arduino Uno + Full sized breadboard circuit
 - 4 LED's (Red, Green< blue and yellow)
@@ -16,4 +18,5 @@ A simon says type of color memory game - Players click the red button 3 times to
 5. Triple click the red button to keep playing!
 # Setup
 The game is battery operated since the code is already loaded onto the arduino already. (No Computer needed to play)
-# files
+# Purpose
+This Project was apart of my application to the University of Waterloo Engineering Science Quest program, hopefully having the oppurtunity to help kids gain hands-on STEM experience to you within my region.
