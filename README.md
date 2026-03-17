@@ -19,4 +19,4 @@ Demo Video: https://youtu.be/B2t3wFgcX6I
 # Setup
 The game is battery operated since the code is already loaded onto the arduino already. (No Computer needed to play)
 # Purpose
-This Project was apart of my application to the University of Waterloo Engineering Science Quest program, hopefully having the oppurtunity to help kids gain hands-on STEM experience to you within my region.
+This Project was apart of my application to be a Highschool Leader for the University of Waterloo Engineering Science Quest program, hopefully having the oppurtunity to help kids gain hands-on STEM experience within my region.
