@@ -4,7 +4,7 @@ A simon says type of color memory game - Players click the red button 3 times to
 Demo Video: https://youtu.be/B2t3wFgcX6I 
 # Built with:
 - Arduino Uno + Full sized breadboard circuit
-- 4 LED's (Red, Green< blue and yellow)
+- 4 LED's (Red, Green, blue and yellow)
 - 4 tactile quad-pin buttons
 - 220Ohm Resistors
 - jumper wires
